@@ -7,8 +7,7 @@ Ever feel like your tagging process is slower than a sloth on Sunday? worry no m
 ## Usage
 
 1. Make it executable:
-   ```
-   bash
+   ```bash
    chmod +x tagem.sh
   ```
 2. Run it with your version and a message:

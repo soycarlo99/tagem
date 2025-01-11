@@ -18,8 +18,8 @@ Ever feel like your tagging process is slower than a sloth on Sunday? worry no m
 
 ## Why?
 
-> **No more* forgetting to push your tags.
-> **no more** long Git commands to remember.
-> **yes more** to more time for coding.
+## **No more* forgetting to push your tags.
+## **no more** long Git commands to remember.
+## **yes more** to more time for coding.
 
 Now go tag 'em all, nerds!
